@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:wght@500&family=Sora:wght@100..800&display=swap");
+
+.App {
+	--header_height: 60px;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.hw {
+	width: 1280px;
+	font-family: "Montserrat", Arial, Helvetica, sans-serif;
+	padding: 25px 70px 32px;
+	display: flex;
+	flex-direction: column;
+    justify-content: flex-end;
+}
+
+.hwTitle {
+	width: 1280px;
+	color: rgba(0, 0, 0, 1);
+	font-family: "Montserrat", Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-weight: 600;
+	line-height: 27px;
+	padding-left: 70px;
+	padding-right: 70px;
+	margin-bottom: 10px;
+}
+
+.line {
+	width: 100vw;
+	height: 1px;
+	background-color: rgba(217, 217, 217, 1);
+	margin-left: calc(-50vw + 50%);
+}
