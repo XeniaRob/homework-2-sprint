@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/XeniaRob/homework-2-sprint.git/static/css/main.eb9319ab.css",
+    "main.js": "/XeniaRob/homework-2-sprint.git/static/js/main.f772a148.js",
+    "static/js/787.66cb4309.chunk.js": "/XeniaRob/homework-2-sprint.git/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/XeniaRob/homework-2-sprint.git/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/XeniaRob/homework-2-sprint.git/index.html",
+    "main.eb9319ab.css.map": "/XeniaRob/homework-2-sprint.git/static/css/main.eb9319ab.css.map",
+    "main.f772a148.js.map": "/XeniaRob/homework-2-sprint.git/static/js/main.f772a148.js.map",
+    "787.66cb4309.chunk.js.map": "/XeniaRob/homework-2-sprint.git/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb9319ab.css",
+    "static/js/main.f772a148.js"
+  ]
+}
