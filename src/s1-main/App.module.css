@@ -15,7 +15,6 @@
 	padding: 25px 70px 32px;
 	display: flex;
 	flex-direction: column;
-    justify-content: flex-end;
 }
 
 .hwTitle {
