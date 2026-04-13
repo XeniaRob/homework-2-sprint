@@ -61,6 +61,3 @@
     opacity: 0.5;
     color: #002e5c;
 }
-.button + .button {
-    margin-left: 24px;
-}
