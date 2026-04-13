@@ -1,16 +1,16 @@
 .sidebar {
+    display: none;
     height: 100vh;
     position: absolute;
-    left: -100%;
+    left: 0;
     top: 0;
     width: 317px;
     background-color: #fff;
     padding: 63px 70px;
-    transition: .3s;
 }
 
 .sidebar.open {
-    left: 0;
+    display: block;
 }
 
 .background {
